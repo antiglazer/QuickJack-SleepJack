@@ -1,6 +1,8 @@
-# QuickJack-SleepJack
+
+#QuickJack-SleepJack
+**DO NOT RUN THIS SCRIPT UNLESS YOU ARE A TESTER OR SECURITY RESARCHER, DO NOT REPACKAGE OR USE TO MANIPULATE OR CAUSE HARM TO OTHERS. THIS SHORTCUT IS DESIGNED TO BE USED FOR LEGITIMATE PURPOSES TO CREATE COMMUNITY MADE PATCHES FOR SOCIAL ENGINERING ATTACKS. NOT TO BE USED TO CAUSE HARM OR DISTRESS. IF YOU USE THIS SHORTCUT TO CAUSE DISTRESS TO OTHERS YOU WILL FACE PUNISHMENT.**
 **This README Is Intended For QUICKJACK Only.**
-Im Assuming You Have Come Here To Learn What QuickJack Is Right?
+Im Assuming You Have Come Here To Lear What QuickJack Is Right?
 Around The End Of May Someone (Nobody Really Who Originally Created It" Made A Script That Plays Moo Sounds and makes it as hard as possibel to stop them?? 
 Yes, Im Not Kidding Although I Would Not Advise To Look For Any Icloud Links Of It On Social Media
 The Orginal Intent Of What Social Media Deems "The Moo Virus" Was Malicious. But People Started Changing The Names Of The Shortcut Script And Started Sending It To Their Close Frends And Random People On The Internet...
