@@ -21,12 +21,15 @@ Repeat "50" Times
      "Turn" Reduce Motion "On" = True
      Set Text Size To ("Accessibility Extra Extra Large") = True
      "Turn" Classic Invert "On" = True 
+     "Turn" VoiceOver "On" = True
      "Turn" Zoom "On" = True
      "Turn" Zoom "Off" = True
      "Turn" Zoom "On" = True 
      Lock The Screen
-     "Turn" appearance "Dark" = True
+
+     "Turn" Appearance "Dark" = True
      "Turn" Airplane Mode "On" = True
+     "Turn" VoiceOver "On" = True 
      "Turn" Bluetooth "On" = True
      "Turn" "Background Sounds" "On" = True
      Duration : 2000800000 "Hours" 
